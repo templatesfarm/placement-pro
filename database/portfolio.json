@@ -59,7 +59,12 @@
         "timeline": "2023-25",
         "headline1": "I worked here as a SE",
         "headline2": "I've managed the team of 5 members",
-        "additionalInformation":[{"key":"","value":""}],
+        "additionalInformation": [
+          {
+            "key": "Company",
+            "value": "Intuit"
+          }
+        ],
         "images": [
           "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/Intuit%20Quickbooks.png",
           "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/lowes.png",
@@ -71,7 +76,12 @@
         "projectName": "Intuit Quickbooks",
         "headline1": "5th & 9th floor DLF Techno park",
         "headline2": "Gachibowli",
-        "additionalInformation":[{"key":"","value":""}],
+        "additionalInformation": [
+          {
+            "key": "College",
+            "value": "GEU"
+          }
+        ],
         "designation": "Senior Software Engineer",
         "link": "https://quickbooks.intuit.com/",
         "cover": "",
@@ -88,7 +98,12 @@
         "projectName": "Intuit Quickbooks",
         "headline1": "I was the Champion at Intuit",
         "headline2": "",
-        "additionalInformation":[{"key":"","value":""}],
+        "additionalInformation": [
+          {
+            "key": "",
+            "value": ""
+          }
+        ],
         "designation": "Software Engineer",
         "link": "",
         "cover": "",
