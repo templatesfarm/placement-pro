@@ -118,15 +118,6 @@
     "displayName": "Qualifications",
     "qualifications": [
       {
-        "courseName": "Master of Computer Application",
-        "instituteName": "Graphic Era University",
-        "specializedIn": "Computer Applications",
-        "yearPassout": "2010",
-        "headline1": "I have built several projects pursuing the MCA",
-        "headline2": "I've been awarded as Center Of Excellence award",
-        "cgpa": "69"
-      },
-      {
         "courseName": "B.Sc.",
         "instituteName": "Govt P. G. Collegef, Rishikesh",
         "specializedIn": "Mathematics, Physics, Chemistry",
