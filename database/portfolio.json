@@ -126,6 +126,16 @@
         "headline2": "",
         "cgpa": "72",
         "timeline": "2007-08"
+      },
+      {
+        "timeline": "2010-12",
+        "courseName": "MCA",
+        "instituteName": "GEU",
+        "specializedIn": "Computer Science",
+        "yearPassout": "2012",
+        "headline1": "asdfasdfadf as df asdf a sdf asd f adf a sdf as f sdf",
+        "headline2": "asdfasdfadf as df asdf a sdf asd f adf a sdf as f sdf",
+        "cgpa": "9.5"
       }
     ]
   }
