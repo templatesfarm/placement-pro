@@ -70,7 +70,7 @@
           "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/lowes.png",
           "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/Webex.png"
         ],
-        "rank": "3"
+        "rank": "1"
       },
       {
         "timeline": "2020-21",
@@ -93,7 +93,7 @@
           "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/Webex.png",
           "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/lowes.png"
         ],
-        "rank": "4"
+        "rank": "2"
       },
       {
         "timeline": "2015-20",
@@ -113,7 +113,7 @@
         "companyName": "Altimetrik",
         "clientName": "Intuit",
         "images": [],
-        "rank": "2"
+        "rank": "3"
       }
     ]
   },
@@ -122,25 +122,25 @@
     "qualifications": [
       {
         "courseName": "B.Sc.",
-        "instituteName": "Govt P. G. Collegef, Rishikesh",
+        "instituteName": "Govt P. G. College, Rishikesh",
         "specializedIn": "Mathematics, Physics, Chemistry",
         "yearPassout": "2007",
-        "headline1": "",
-        "headline2": "",
-        "cgpa": "72",
+        "headline1": "Major in Physics, Chemistry, and Mathematics",
+        "headline2": "Represented my district in cricket tournaments, developing teamwork, sportsmanship, and competitive spirit.",
+        "cgpa": "8.9",
         "timeline": "2007-08",
         "rank": "5"
       },
       {
-        "timeline": "2010-12",
+        "timeline": "2007-10",
         "courseName": "MCA",
-        "instituteName": "GEU",
+        "instituteName": "Graphic Era University",
         "specializedIn": "Computer Science",
-        "yearPassout": "2012",
-        "headline1": "asdfasdfadf as df asdf a sdf asd f adf a sdf as f sdf",
-        "headline2": "asdfasdfadf as df asdf a sdf asd f adf a sdf as f sdf",
+        "yearPassout": "2010",
+        "headline1": "Successfully developed a functional CMS that met the project requirements.",
+        "headline2": "Gained practical experience in web development technologies and methodologies",
         "cgpa": "9.5",
-        "rank": "1"
+        "rank": "4"
       }
     ]
   }
