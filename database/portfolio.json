@@ -56,9 +56,9 @@
         "link": "https://quickbooks.intuit.com/",
         "skills": "ReactJS, TypeScript, Redux, PWA",
         "companyName": "Intuit",
-        "timeline": "2023-25",
-        "headline1": "I worked here as a SE",
-        "headline2": "I've managed the team of 5 members",
+        "timeline": "2015-20",
+        "headline1": "Developed a new invoicing feature for Intuit QuickBooks Online using React and Redux to improve the user interface and streamline the invoicing process",
+        "headline2": "Increased invoice processing speed by 15%",
         "additionalInformation": [
           {
             "key": "Company",
@@ -70,13 +70,13 @@
           "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/lowes.png",
           "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/Webex.png"
         ],
-        "rank": "1"
+        "rank": "3"
       },
       {
         "timeline": "2020-21",
-        "projectName": "Intuit Quickbooks",
-        "headline1": "5th & 9th floor DLF Techno park",
-        "headline2": "Gachibowli",
+        "projectName": "Cisco Webex",
+        "headline1": "Worked on a Cisco Webex project focused on enhancing collaboration features by developing a new real-time translation service",
+        "headline2": "Led the development of a new feature. Contributed to the design and implementation of a key component",
         "additionalInformation": [
           {
             "key": "College",
@@ -84,36 +84,36 @@
           }
         ],
         "designation": "Senior Software Engineer",
-        "link": "https://quickbooks.intuit.com/",
+        "link": "https://www.webex.com/",
         "cover": "",
         "skills": "Java, JavaScript, Next.JS, React.JS",
-        "companyName": "Microsoft",
+        "companyName": "Cisco",
         "clientName": "",
         "images": [
           "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/Webex.png",
           "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/lowes.png"
         ],
-        "rank": "2"
+        "rank": "4"
       },
       {
-        "timeline": "2015-20",
-        "projectName": "Intuit Quickbooks",
-        "headline1": "I was the Champion at Intuit",
-        "headline2": "",
+        "timeline": "2022-23",
+        "projectName": "eCommerce Cart",
+        "headline1": "Developed a robust Cart feature for an e-commerce application using React and Redux, enabling seamless product management, secure checkout, and a smooth user experience.",
+        "headline2": "Implemented a dynamic and efficient shopping cart within a React application leveraging the power of Redux for robust state management and a seamless user experience.",
         "additionalInformation": [
           {
             "key": "",
             "value": ""
           }
         ],
-        "designation": "Software Engineer",
+        "designation": "Lead Software Engineer",
         "link": "",
         "cover": "",
-        "skills": "Java, Selenium, Webdriver",
-        "companyName": "Altimetrik",
+        "skills": "React, Redux, TypeScript, JavaScript",
+        "companyName": "Lowe's Services India",
         "clientName": "Intuit",
         "images": [],
-        "rank": "3"
+        "rank": "5"
       }
     ]
   },
@@ -129,7 +129,7 @@
         "headline2": "Represented my district in cricket tournaments, developing teamwork, sportsmanship, and competitive spirit.",
         "cgpa": "8.9",
         "timeline": "2007-08",
-        "rank": "5"
+        "rank": "1"
       },
       {
         "timeline": "2007-10",
@@ -140,7 +140,7 @@
         "headline1": "Successfully developed a functional CMS that met the project requirements.",
         "headline2": "Gained practical experience in web development technologies and methodologies",
         "cgpa": "9.5",
-        "rank": "4"
+        "rank": "2"
       }
     ]
   }
