@@ -119,50 +119,6 @@
   },
   "qualificationInfo": {
     "displayName": "Qualifications",
-    "qualifications": [
-      {
-        "timeline": "",
-        "courseName": "",
-        "instituteName": "",
-        "specializedIn": "",
-        "yearPassout": "",
-        "headline1": "",
-        "headline2": "",
-        "cgpa": "",
-        "link": {
-          "linkText": "",
-          "linkUrl": ""
-        }
-      },
-      {
-        "timeline": "",
-        "courseName": "",
-        "instituteName": "",
-        "specializedIn": "",
-        "yearPassout": "",
-        "headline1": "",
-        "headline2": "",
-        "cgpa": "",
-        "link": {
-          "linkText": "",
-          "linkUrl": ""
-        }
-      },
-      {
-        "timeline": "2004-07",
-        "courseName": "Bachelor of Science",
-        "instituteName": "H.N.B. Garhwal University, Srinagar, UK",
-        "specializedIn": "Mathematics, Physics, Chemistry",
-        "yearPassout": "2007",
-        "headline1": "Pursued B.SC specialized in Mathematics",
-        "headline2": "Won Mathematics quiz as 1st Prize",
-        "cgpa": "8.5",
-        "rank": "1",
-        "link": {
-          "linkUrl": "https://www.templatesfarm.com/",
-          "linkText": "website"
-        }
-      }
-    ]
+    "qualifications": []
   }
 }
