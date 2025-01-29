@@ -77,7 +77,10 @@
         "headline1": "I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends . I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends",
         "headline2": "I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends . I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends",
         "designation": "Software Engineer",
-        "link": "",
+        "link": {
+          "linkUrl": "https://originui.com/badge",
+          "linkText": "Project Link"
+        },
         "cover": "",
         "skills": "",
         "companyName": "Intuit",
