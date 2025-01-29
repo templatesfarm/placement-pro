@@ -129,7 +129,11 @@
         "headline1": "Pursued B.SC specialized in Mathematics",
         "headline2": "Won Mathematics quiz as 1st Prize",
         "cgpa": "8.5",
-        "rank": "2"
+        "rank": "2",
+        "link": {
+          "linkUrl": "https://www.templatesfarm.com/",
+          "linkText": "website"
+        }
       }
     ]
   }
