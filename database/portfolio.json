@@ -69,8 +69,24 @@
     ]
   },
   "projectsInfo": {
-    "displayName": ".....",
-    "projects": []
+    "displayName": "Timeline",
+    "projects": [
+      {
+        "timeline": "2022-24",
+        "projectName": "Lowe's Cart",
+        "headline1": "I developed the Cart feature in ReactJS by building Micro Front Ends",
+        "headline2": "I developed the Cart feature in ReactJS by building Micro Front Ends",
+        "designation": "Lead Software Engineer",
+        "link": "",
+        "cover": "",
+        "skills": "ReactJS, TypeScript, Redux, PWA",
+        "companyName": "Lowe's",
+        "clientName": "",
+        "images": [
+          "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_male_who_is_professional_sitting_at.jpeg"
+        ]
+      }
+    ]
   },
   "qualificationInfo": {
     "displayName": "Qualifications",
