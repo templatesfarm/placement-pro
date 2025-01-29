@@ -74,6 +74,18 @@
   },
   "qualificationInfo": {
     "displayName": "Qualifications",
-    "qualifications": []
+    "qualifications": [
+      {
+        "timeline": "Jul'04-Jun'07",
+        "courseName": "Bachelor of Science",
+        "instituteName": "H.N.B. Garhwal University, Srinagar, UK",
+        "specializedIn": "Mathematics, Physics, Chemistry",
+        "yearPassout": "2007",
+        "headline1": "Pursued B.SC specialized in Mathematics",
+        "headline2": "Won Mathematics quiz as 1st Prize",
+        "cgpa": "8.5",
+        "rank": "1"
+      }
+    ]
   }
 }
