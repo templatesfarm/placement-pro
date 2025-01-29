@@ -72,6 +72,24 @@
     "displayName": "Timeline",
     "projects": [
       {
+        "timeline": "Jul'04-Jun'07",
+        "projectName": "Intuit Quickbooks",
+        "headline1": "",
+        "headline2": "",
+        "designation": "",
+        "link": "",
+        "cover": "",
+        "skills": "",
+        "companyName": "",
+        "clientName": "",
+        "images": [
+          {
+            "fileName": "cartoon_male_who_is_professional_sitting_at.jpeg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_male_who_is_professional_sitting_at.jpeg"
+          }
+        ]
+      },
+      {
         "timeline": "2022-24",
         "projectName": "Lowe's Cart",
         "headline1": "I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends . I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends",
@@ -83,7 +101,10 @@
         "companyName": "Lowe's",
         "clientName": "",
         "images": [
-          "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_male_who_is_professional_sitting_at.jpeg"
+          {
+            "fileName": "cartoon_male_who_is_professional_sitting_at.jpeg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_male_who_is_professional_sitting_at.jpeg"
+          }
         ]
       }
     ]
