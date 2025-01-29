@@ -113,29 +113,6 @@
   },
   "qualificationInfo": {
     "displayName": "Qualifications",
-    "qualifications": [
-      {
-        "courseName": "B.Sc.",
-        "instituteName": "Govt P. G. College, Rishikesh",
-        "specializedIn": "Mathematics, Physics, Chemistry",
-        "yearPassout": "2007",
-        "headline1": "Major in Physics, Chemistry, and Mathematics",
-        "headline2": "Represented my district in cricket tournaments, developing teamwork, sportsmanship, and competitive spirit.",
-        "cgpa": "8.9",
-        "timeline": "2004-07",
-        "rank": "1"
-      },
-      {
-        "timeline": "2007-10",
-        "courseName": "MCA",
-        "instituteName": "Graphic Era University",
-        "specializedIn": "Computer Science",
-        "yearPassout": "2010",
-        "headline1": "Successfully developed a functional CMS that met the project requirements.",
-        "headline2": "Gained practical experience in web development technologies and methodologies",
-        "cgpa": "9.5",
-        "rank": "1"
-      }
-    ]
+    "qualifications": []
   }
 }
