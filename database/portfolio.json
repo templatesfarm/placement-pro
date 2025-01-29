@@ -80,7 +80,7 @@
         "link": "",
         "cover": "",
         "skills": "",
-        "companyName": "",
+        "companyName": "Intuit",
         "clientName": "",
         "images": [
           {
@@ -91,7 +91,8 @@
             "fileName": "cartoon_professional_girl_who_is_indian_sitting.jpeg",
             "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_professional_girl_who_is_indian_sitting.jpeg"
           }
-        ]
+        ],
+        "rank": "100"
       },
       {
         "timeline": "2022-24",
