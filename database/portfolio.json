@@ -147,19 +147,19 @@
     "displayName": "Achievement",
     "listOfAchievements": [
       {
-        "id": "5c5d813c-e83a-4a2c-8854-07dd69b3ce1b",
-        "text": "Awarded with Employee of the Month in 2019 at Intuit",
-        "type": "other"
+        "id": "e462a88b-30f4-4585-8c83-d3df1f139088",
+        "text": "Data Science",
+        "type": "certification"
       },
       {
         "id": "7cdfeb32-6c3b-4a6f-8199-03a8a244494e",
-        "text": "Awarded with Employee of the Month in 2019 at Intuit",
+        "text": "EOM",
         "type": "awards"
       },
       {
-        "id": "e462a88b-30f4-4585-8c83-d3df1f139088",
-        "text": "Awarded with Employee of the Month in 2019 at Intuit",
-        "type": "certification"
+        "id": "5c5d813c-e83a-4a2c-8854-07dd69b3ce1b",
+        "text": "Cricket Team",
+        "type": "other"
       }
     ]
   }
