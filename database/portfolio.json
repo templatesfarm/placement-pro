@@ -147,17 +147,17 @@
     "displayName": "Achievements",
     "listOfAchievements": [
       {
-        "id": "e462a88b-30f4-4585-8c83-d3df1f139088",
-        "text": "Data Science",
-        "type": "certification"
-      },
-      {
         "id": "7cdfeb32-6c3b-4a6f-8199-03a8a244494e",
         "text": "EOM",
         "type": "awards"
       },
       {
-        "id": "5c5d813c-e83a-4a2c-8854-07dd69b3ce1b",
+        "id": "14ae136d-c9e8-4bd5-b880-895fad56e916",
+        "text": "Data Science",
+        "type": "certificate"
+      },
+      {
+        "id": "6f36711f-f45d-4f2e-9f8a-81bdc61be1ae",
         "text": "Cricket Team",
         "type": "other"
       }
