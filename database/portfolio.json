@@ -1,0 +1,176 @@
+{
+  "personalInfo": {
+    "displayName": "",
+    "name": "Ananya Pandey",
+    "contactNumber": "9876543210",
+    "email": "ananyapandey@gmail.com",
+    "socialMedia": {
+      "linkedIn": "https://www.linkedin.com/",
+      "github": "https://github.com/",
+      "youtube": "",
+      "xdotcom": "https://twitter.com/",
+      "instagram": "",
+      "facebook": ""
+    },
+    "resumeName": "AnanyaPandey-CV.pdf",
+    "gender": "Female"
+  },
+  "heroInfo": {
+    "displayName": "",
+    "message": "Hi! I am Ananya.",
+    "introduction": "Software Development Engineer in Test (SDET), Automation Tester, Workflow Automation Expert",
+    "description": "A detail-oriented Software Development Engineer in Test with expertise in automation frameworks, performance testing, and CI/CD integration."
+  },
+  "skillsInfo": {
+    "displayName": "Specialization",
+    "skills": [
+      {
+        "id": "1740422188608",
+        "name": "Test Automation",
+        "rating": 8
+      },
+      {
+        "id": "1740422193824",
+        "name": "Selenium",
+        "rating": 8.5
+      },
+      {
+        "id": "1740422200407",
+        "name": "Cypress",
+        "rating": 7.5
+      },
+      {
+        "id": "1740422209176",
+        "name": "Performance Testing",
+        "rating": 7.5
+      },
+      {
+        "id": "1740422215527",
+        "name": "Jenkins",
+        "rating": 7
+      },
+      {
+        "id": "1740422222826",
+        "name": "Kubernetes",
+        "rating": 8
+      },
+      {
+        "id": "1740422230492",
+        "name": "Agile Testing",
+        "rating": 7.5
+      },
+      {
+        "id": "1740422236610",
+        "name": "Performance Testing",
+        "rating": 6.5
+      },
+      {
+        "id": "1740422243376",
+        "name": "Security Testing",
+        "rating": 8
+      },
+      {
+        "id": "1740422249810",
+        "name": "AI-Driven Testing",
+        "rating": 8.5
+      }
+    ],
+    "skillAnimationType": "moving-animation"
+  },
+  "achievementsInfo": {
+    "displayName": "Achievements",
+    "listOfAchievements": [
+      {
+        "id": "1740422368943",
+        "text": "Awarded ‘Best Automation Engineer’ at Infosys (2021)",
+        "type": "award"
+      },
+      {
+        "id": "1740422398093",
+        "text": "Google Cloud Professional DevOps Engineer Certification (2023): Gained expertise in cloud-based testing, CI/CD, and infrastructure automation.",
+        "type": "certificate"
+      },
+      {
+        "id": "1740422422394",
+        "text": "Speaker at Selenium Conference (2024): Delivered a talk on integrating Selenium with AI for enhanced test automation in large-scale systems.",
+        "type": "other"
+      }
+    ]
+  },
+  "projectsInfo": {
+    "displayName": "Timeline",
+    "projects": [
+      {
+        "timeline": "2022-Present",
+        "projectName": "AI-Powered Testing for E-Commerce Platform",
+        "headline1": "Implemented AI-driven test case generation, improving test coverage by 40% and reducing undetected defects in production.",
+        "headline2": "Led a team of 8 automation engineers to develop a scalable testing framework for microservices architecture.",
+        "designation": "Senior Software Development Engineer in Test (SDET II)",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "Python, Cypress, Performance Testing, Kubernetes, Docker, CI/CD",
+        "companyName": "Amazon",
+        "images": [
+          {
+            "fileName": "st1.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/st1.png"
+          },
+          {
+            "fileName": "st2.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/st2.png"
+          },
+          {
+            "fileName": "st3.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/st3.png"
+          }
+        ]
+      },
+      {
+        "timeline": "2019-2022",
+        "projectName": "Enterprise Web Application Testing",
+        "headline1": "Developed an automation testing suite using Selenium and Java, reducing regression testing time by 70%.",
+        "headline2": "Integrated test automation with CI/CD pipelines using Jenkins, enabling faster and more reliable software releases.",
+        "designation": "Software Development Engineer in Test (SDET)",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "Selenium, Java, TestNG, Jenkins, REST Assured, API Testing, Agile",
+        "companyName": "Infosys Ltd.",
+        "images": [
+          {
+            "fileName": "st4.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/st4.png"
+          },
+          {
+            "fileName": "st5.jpg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/st5.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "qualificationInfo": {
+    "displayName": "Qualifications",
+    "qualifications": [
+      {
+        "timeline": "2015-2019",
+        "courseName": "Bachelor of Technology in Computer Science",
+        "instituteName": "Indian Institute of Technology (IIT), Delhi",
+        "specializedIn": "Software Testing, Automation, Machine Learning",
+        "yearPassout": "2019",
+        "headline1": "Developed a robust test automation framework for a university project, reducing manual testing efforts by 60%.",
+        "headline2": "Conducted research on machine learning-driven test case generation and published a paper in a national conference.",
+        "cgpa": "8.9",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "images": [],
+        "rank": "3"
+      }
+    ]
+  }
+}
