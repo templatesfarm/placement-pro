@@ -25,6 +25,11 @@
     "displayName": "Specialization",
     "skills": [
       {
+        "id": "1740422200407",
+        "name": "Cypress",
+        "rating": 7.5
+      },
+      {
         "id": "1740422188608",
         "name": "Test Automation",
         "rating": 8
@@ -33,11 +38,6 @@
         "id": "1740422193824",
         "name": "Selenium",
         "rating": 8.5
-      },
-      {
-        "id": "1740422200407",
-        "name": "Cypress",
-        "rating": 7.5
       },
       {
         "id": "1740422209176",
@@ -75,7 +75,7 @@
         "rating": 8.5
       }
     ],
-    "skillAnimationType": "moving-animation"
+    "skillAnimationType": "scale-animation"
   },
   "achievementsInfo": {
     "displayName": "Achievements",
